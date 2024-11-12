@@ -1,0 +1,1 @@
+pip install streamlit yfinance pandas requests newsapi-python nltk google-generativeai altair pandas-ta mplfinance
